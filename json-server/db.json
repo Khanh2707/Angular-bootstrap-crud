@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Khánh",
+      "lastName": "Trần",
+      "emailId": "khanhTran@gmail.com",
+      "mobileNo": "0865308698",
+      "salary": "14000000"
+    },
+    {
+      "id": 3,
+      "firstName": "Điển",
+      "lastName": "Chu",
+      "emailId": "dienChu@gmail.com",
+      "mobileNo": "123456789",
+      "salary": "5000000"
+    },
+    {
+      "id": 4,
+      "firstName": "Hào",
+      "lastName": "Nguyễn",
+      "emailId": "haoNguyen@gmail.com",
+      "mobileNo": "123456789",
+      "salary": "5000000"
+    }
+  ]
+}
